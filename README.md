@@ -121,23 +121,3 @@ Run Django's system checks from the project directory:
 ```powershell
 python manage.py check
 ```
-
-## GitHub Workflow
-
-After making changes:
-
-```powershell
-git add .
-git commit -m "Describe your change"
-git push origin main
-```
-
-## Notes
-
-- The local SQLite database is excluded from version control.
-- Python cache files and virtual environments are excluded through `.gitignore`.
-- The background image is loaded from an external Unsplash URL defined in `static/style.css`.
-
-## License
-
-This project is available for personal and educational use.
