@@ -113,11 +113,3 @@ http://127.0.0.1:8000/
 3. Select the orange edit button to update a task.
 4. Select the red delete button to remove one task.
 5. Select `Clear All` to remove every task.
-
-## Django Checks
-
-Run Django's system checks from the project directory:
-
-```powershell
-python manage.py check
-```
