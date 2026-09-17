@@ -4,6 +4,8 @@ A clean and responsive Todo application built with Django. The app provides a si
 
 ## Preview
 
+![Todo App preview](docs/todo-app-preview.png)
+
 The interface includes:
 
 - A centered translucent Todo panel
